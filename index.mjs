@@ -1,7 +1,7 @@
 import TelegramBot from "node-telegram-bot-api";
 import { gameOptions, againOptions } from "./options.mjs";
 
-const token = "6457192186:AAF2y-j0TMSjUTNeMlOezIXBLTcDDeW1iaY";
+const token = "6457192186:AAGygcIdB6ro_exECFymtQh7YcHYcozlfQQ";
 
 const bot = new TelegramBot(token, { polling: true });
 
